@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋 Its me, Ali Jawish
+
+- 🔭 I’m currently working on ...
+* DevUniv (LMS simple starter repo using Laravel)
+* Tnafos (SaaS for SME's and service providers using Laravel)
+* UGCA (University Group Chat App, using Flutter, Laraver & Socket.io)
+
+- 🌱 I’m currently learning ...
+* Python 🐍
+* Flutter 📱
+* Dart 🎯
+
+- 👯 I’m looking to collaborate on ...
+just try to impress me with your project and im in 😎
 
 <!--
 **Jawish-a/jawish-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
