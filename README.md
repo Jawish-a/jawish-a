@@ -5,8 +5,16 @@
 * Tnafos (SaaS for SME's and service providers using Laravel)
 * UGCA (University Group Chat App, using Flutter, Laraver & Socket.io)
 
+### 😎 Skills I know ...
+* Python
+* PHP
+* Django
+* Laravel
+
+
 ### 🌱 I’m currently learning ...
 * Python 🐍
+* JavaScript 🚀
 * Flutter 📱
 * Dart 🎯
 
