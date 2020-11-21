@@ -6,10 +6,9 @@
 * UGCA (University Group Chat App, using Flutter, Laraver & Socket.io)
 
 ### 😎 Skills I know ...
-* Python
-* PHP
-* Django
-* Laravel
+* PHP 🐘
+* Django 🍩
+* Laravel 🌈
 * Python 🐍
 * JavaScript 🚀
 * Flutter 📱
