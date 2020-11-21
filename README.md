@@ -10,13 +10,16 @@
 * PHP
 * Django
 * Laravel
-
-
-### 🌱 I’m currently learning ...
 * Python 🐍
 * JavaScript 🚀
 * Flutter 📱
 * Dart 🎯
+
+### 🌱 I’m currently learning ...
+* react.js 🌌
+* react native 🌚
+* redux 😐
+
 
 ### 👯 I’m looking to collaborate on ...
 just try to impress me with your project and im in 😎
