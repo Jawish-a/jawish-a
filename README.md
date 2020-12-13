@@ -39,4 +39,5 @@ Here are some ideas to get you started:
 -->
 
 
-https://www.codewars.com/users/jawish-a/badges/large
+![Alt text]("https://www.codewars.com/users/jawish-a/badges/large")
+<img src="https://www.codewars.com/users/jawish-a/badges/large">
