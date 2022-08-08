@@ -13,11 +13,13 @@
 * JavaScript 🚀
 * Flutter 📱
 * Dart 🎯
+* react.js 🌌
+* react native 📱
+* redux 😐
 
 ### 🌱 I’m currently learning ...
-* react.js 🌌
-* react native 🌚
-* redux 😐
+Angular 🔺
+Node.js 
 
 
 ### 👯 I’m looking to collaborate on ...
