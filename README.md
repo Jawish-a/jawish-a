@@ -19,7 +19,9 @@
 
 ### 🌱 I’m currently learning ...
 ~~Angular~~ nope, I didnt like it 🔺
+
 ~~Node.js~~ nope, fucosing on mobile atm.
+
 Swift 🦅
 
 
