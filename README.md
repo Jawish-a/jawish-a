@@ -18,9 +18,10 @@
 * redux 😐
 
 ### 🌱 I’m currently learning ...
---Angular-- nope, I didnt like it 🔺
+~~Angular~~ nope, I didnt like it 🔺
+~~Node.js~~ nope, fucosing on mobile atm.
 Swift 🦅
----Node.js-- nope, fucosing on mobile atm. 
+
 
 
 ### 👯 I’m looking to collaborate on ...
